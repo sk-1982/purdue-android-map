@@ -1,0 +1,9 @@
+[submodule "app/libs/polylabel"]
+	path = app/libs/polylabel
+	url = https://github.com/mapbox/polylabel.git
+[submodule "app/libs/geometry.hpp"]
+	path = app/libs/geometry.hpp
+	url = https://github.com/mapbox/geometry.hpp.git
+[submodule "app/libs/variant"]
+	path = app/libs/variant
+	url = https://github.com/mapbox/variant.git
